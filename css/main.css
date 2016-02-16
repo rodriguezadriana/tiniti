@@ -1,0 +1,149 @@
+/* Inserte su codigo aqui */
+.amarillo{
+	background-color: #FFD10D;
+	width: 100%;
+	height: 400px;
+	position: absolute;
+	z-index: 1
+	
+
+}
+.menu{
+	list-style: none;
+	position: absolute;
+	z-index: 2;
+	top: 80px;
+	margin-left: 40px;
+
+
+}
+.lista{
+	float: left;
+	width:90px;
+    display: block;
+    text-align: center;
+    padding: 35px  ;
+    color:#ffffff;
+
+}
+.sumate{
+	background-color: #F2A007;
+	width: 150px;
+	height: 40px;
+	position: absolute;
+	z-index: 2;
+	text-align: center;
+	padding: 15px;
+	top:  100px;
+	right: 900px;
+
+
+}
+.sombra{
+	-webkit-box-shadow: 1px -14px 113px 17px rgba(235,235,230,1);
+    -moz-box-shadow: 1px -14px 113px 17px rgba(235,235,230,1);
+    box-shadow: 1px -14px 113px 17px rgba(235,235,230,1);
+}
+.absoluta{
+	     position: absolute;
+        top:210px;
+        left: 350px;
+        width: 400px;
+        z-index: 2;
+        color: #ffffff;
+        font-size: 40px;
+
+}
+.absoluta2{
+	    position: absolute;
+        top:250px;
+        left: 380px;
+        width: 400px;
+         z-index: 2;
+        color: #ffffff;
+        font-size: 15px;
+
+}
+.gris{
+    background-color: #E5E8E8;
+	width: 100%;
+	height:1300px;
+	position: absolute;
+	top: 400px;
+}
+.blanco{
+	width: 400px;
+	height: 560px;
+	background-color: #ffffff;
+	position: absolute;
+	top: 450px;
+
+	
+}
+.oscuro{
+	width: 300px;
+	height: 300px;
+	background-color: #99A3A4;
+	left: 100px;
+	position: absolute;
+	margin: 70px 0px 0px -45px;
+}
+.ejem{
+	font-size: 30px;
+	top: 380px;
+	left: 20px;
+	position: absolute;
+}
+.centrado{
+	text-align: center;
+	font-size: 12px;
+    top: 420px;
+	padding: 10px;
+	position: absolute;
+}
+
+.botchi{
+	width: 100px;
+	height: 40px;
+	background-color: #FFD10D;
+	position: absolute;
+	top: 500px;
+	left: 150px;
+}
+span{
+	color: #ffffff;
+	font-size: 18px;
+	position: absolute;
+	left: 15px;
+	top: 5px;
+}
+.abajo{
+	position: absolute;
+	top: 1100px;
+}
+
+.gris2{
+ 	background-color: #383631;
+ 	height: 100px;
+ 	margin-top: 150px;
+ 	-webkit-box-shadow: 1px 9px 55px 5px rgba(10,10,10,1);
+    -moz-box-shadow: 1px 9px 55px 5px rgba(10,10,10,1);
+    box-shadow: 1px 9px 55px 5px rgba(10,10,10,1);
+
+ }
+ .footer{
+
+	list-style: none;
+	position: absolute;
+	margin: 20px 0px 0px 500px;
+}
+.lista2{
+    float: left;
+	display: block;
+    text-align: center;
+    border-right:2px solid #F2A007;
+    color:#999;
+    padding:3px;
+    font-size: 13px;
+
+}
