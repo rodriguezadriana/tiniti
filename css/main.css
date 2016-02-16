@@ -124,11 +124,13 @@ span{
 
 .gris2{
  	background-color: #383631;
- 	height: 100px;
- 	margin-top: 150px;
+ 	height: 90px;
+ 
  	-webkit-box-shadow: 1px 9px 55px 5px rgba(10,10,10,1);
     -moz-box-shadow: 1px 9px 55px 5px rgba(10,10,10,1);
     box-shadow: 1px 9px 55px 5px rgba(10,10,10,1);
+   
+  margin-top: 1670px;
 
  }
  .footer{
